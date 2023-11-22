@@ -1,0 +1,11 @@
+.articlesContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.sectionTitle {
+	margin-left: 25px;
+}
